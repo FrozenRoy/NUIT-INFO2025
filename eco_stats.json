@@ -1,0 +1,158 @@
+{
+    "total_size": 115194,
+    "file_count": 28,
+    "images": [
+        {
+            "path": "img/windows-95-background-16384x9216-v0-rrhd0k80rida1.jpeg",
+            "size": 502,
+            "name": "windows-95-background-16384x9216-v0-rrhd0k80rida1.jpeg"
+        }
+    ],
+    "css": [
+        {
+            "path": "css/apps.css",
+            "size": 5390,
+            "name": "apps.css"
+        },
+        {
+            "path": "css/main.css",
+            "size": 5595,
+            "name": "main.css"
+        },
+        {
+            "path": "css/windows.css",
+            "size": 1103,
+            "name": "windows.css"
+        },
+        {
+            "path": "css/95_theme/apps.css",
+            "size": 8865,
+            "name": "apps.css"
+        },
+        {
+            "path": "css/95_theme/main.css",
+            "size": 8146,
+            "name": "main.css"
+        },
+        {
+            "path": "css/95_theme/style.css",
+            "size": 16763,
+            "name": "style.css"
+        },
+        {
+            "path": "css/95_theme/style_qcm.css",
+            "size": 5432,
+            "name": "style_qcm.css"
+        },
+        {
+            "path": "css/95_theme/windows.css",
+            "size": 8164,
+            "name": "windows.css"
+        }
+    ],
+    "js": [
+        {
+            "path": "js/apps.js",
+            "size": 0,
+            "name": "apps.js"
+        },
+        {
+            "path": "js/chat.js",
+            "size": 2002,
+            "name": "chat.js"
+        },
+        {
+            "path": "js/core.js",
+            "size": 0,
+            "name": "core.js"
+        },
+        {
+            "path": "js/script.js",
+            "size": 3572,
+            "name": "script.js"
+        },
+        {
+            "path": "js/snake.js",
+            "size": 5381,
+            "name": "snake.js"
+        },
+        {
+            "path": "js/switch_theme.js",
+            "size": 3782,
+            "name": "switch_theme.js"
+        },
+        {
+            "path": "js/terminal.js",
+            "size": 2349,
+            "name": "terminal.js"
+        },
+        {
+            "path": "js/window-manager.js",
+            "size": 1810,
+            "name": "window-manager.js"
+        }
+    ],
+    "php": [
+        {
+            "path": "index.php",
+            "size": 5763,
+            "name": "index.php"
+        },
+        {
+            "path": "api/api.php",
+            "size": 6795,
+            "name": "api.php"
+        },
+        {
+            "path": "api/run_analysis.php",
+            "size": 540,
+            "name": "run_analysis.php"
+        },
+        {
+            "path": "apps/chat.php",
+            "size": 1048,
+            "name": "chat.php"
+        },
+        {
+            "path": "apps/help.php",
+            "size": 4865,
+            "name": "help.php"
+        },
+        {
+            "path": "apps/quiz.php",
+            "size": 862,
+            "name": "quiz.php"
+        },
+        {
+            "path": "apps/resources.php",
+            "size": 8551,
+            "name": "resources.php"
+        },
+        {
+            "path": "apps/settings.php",
+            "size": 1323,
+            "name": "settings.php"
+        },
+        {
+            "path": "apps/snake.php",
+            "size": 2353,
+            "name": "snake.php"
+        },
+        {
+            "path": "apps/terminal.php",
+            "size": 960,
+            "name": "terminal.php"
+        },
+        {
+            "path": "lib/mypdo.php",
+            "size": 3278,
+            "name": "mypdo.php"
+        }
+    ],
+    "other": [],
+    "unused_candidates": [],
+    "eco_score": 47.7,
+    "eco_grade": "C",
+    "page_weight_kb": 82.64,
+    "request_count_est": 22
+}
